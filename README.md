@@ -29,6 +29,8 @@ The user can post content in the community either in the form of a question, pol
 Other users can react to a post by upvoting, commenting and also sharing the post.
 There are certain content policies that the user has to follow. Breaking the set of rules of Unacceptable content can lead to enforcement of Temporary or permanent suspension of accounts, Removal of content or getting banned from the communities.
 
+<img src="connect.png">
+
 # Technologies tools used:
 
 Frontend: JavaScript,HTML,CSS,
