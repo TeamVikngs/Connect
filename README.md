@@ -1,6 +1,6 @@
 # Team Vikings
 
-# Connect
+# CONNECT <3
 
 ![image](https://user-images.githubusercontent.com/47856985/114812287-4c5dbc00-9dcd-11eb-87b9-ecb3a1a2b81d.png)
 
