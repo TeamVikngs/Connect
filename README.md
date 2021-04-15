@@ -31,11 +31,11 @@ There are certain content policies that the user has to follow. Breaking the set
 
 # Techno tools used:
 
-Frontend: Dart language, Frame work Flutter, Android
+Frontend: JavaScript,HTML,CSS,
 
-Backend: JavaScript(node JS)
+Backend: JavaScript(Node JS)
 
-Database: Mongodb
+Database-Management: Firebase
 
 # Check out our blogs for more information:
 
