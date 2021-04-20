@@ -1,3 +1,6 @@
+
+<img src="https://github.com/TeamVikngs/Connect/blob/e3af9dcb0cb008509a5376642e99b2a85f62ac8e/Algorithm/Images/K-Means1.png">
+
 We can  use K-means clustering to put people with similar methods into the same cluster.
 
 Convert the dataset into numerical values if it is not already, so that calculations can be performed.The User interest will be the cluster centroid.
