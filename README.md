@@ -16,7 +16,6 @@ So the users can search other users in the community based on user id's and make
 The user will also be given a feature to explore the trending contents in the community by choosing the desired interest tabs.
 
     2. Chats:
-   ![image](https://bit.ly/3sCVpoG)
 Once a match is found the user can initiate the conversation by sending a text.
 The other user can then block and initiate a conversation based on the message.
 The messages send will be stored and wont be lost when the user closes the application.
