@@ -42,6 +42,8 @@ Database-Management: Firebase
 
 # Check out our blogs for more information:
 
+https://leokrish.medium.com/team-vikings-c1de836d1773
+
 https://vikingamrita.blogspot.com/2021/01/social-networking-app-to-connect-people.html
 
 https://vikingamrita.blogspot.com/2021/02/version-2.html
