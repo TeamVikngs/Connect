@@ -2,7 +2,9 @@
 
 # CONNECT <3
 
-![image](https://user-images.githubusercontent.com/47856985/114812287-4c5dbc00-9dcd-11eb-87b9-ecb3a1a2b81d.png)
+<p align="center">
+      <img src="https://user-images.githubusercontent.com/47856985/114812287-4c5dbc00-9dcd-11eb-87b9-ecb3a1a2b81d.png">
+</p>
 
 # About
 Connect is an Web Application that helps like minded people connect .Take the input from the users and put the people who have similar interest in the same cluster where they can talk and make healthy discussions.
