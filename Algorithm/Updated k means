@@ -1,5 +1,4 @@
-
-<img src="https://github.com/TeamVikngs/Connect/blob/e3af9dcb0cb008509a5376642e99b2a85f62ac8e/Algorithm/Images/K-Means1.png">
+Fig 1:
 
 We can  use K-means clustering to put people with similar methods into the same cluster.
 
@@ -14,6 +13,8 @@ The user whose datapoints are matching with the centroid will  be put together i
  
 K-means Algorithm
 
+Fig 2:
+
 Initialize centroids by first shuffling the dataset and then randomly selecting K data points for the centroids without replacement.
 
 Keep iterating until there is no change to the centroids. i.e assignment of data points to clusters isn’t changing.
@@ -25,3 +26,5 @@ Assign each data point to the closest cluster (centroid).
 Compute the centroids for the clusters by taking the average of the all data points that belong to each cluster.
 
 Cluster-then-predict where different models will be built for different subgroups if we believe there is a wide variation in the behaviors of different subgroups.
+
+Fig 3:
