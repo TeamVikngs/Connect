@@ -2,8 +2,6 @@ let client, channel, username, activeUser;
 
 client = new StreamChat('<STREAM_APP_KEY>');
 
-// [...]
-
 async function generateToken(username) {
   const { token } = (await axios.get(`/token?username=${username}`)).data;
   return token;
