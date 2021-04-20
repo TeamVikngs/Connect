@@ -62,3 +62,5 @@ plt.scatter(Centroids["ApplicantIncome"],Centroids["LoanAmount"],c='red')
 plt.xlabel('Income')
 plt.ylabel('Loan Amount (In Thousands)')
 plt.show()
+
+.
