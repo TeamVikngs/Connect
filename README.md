@@ -40,7 +40,15 @@ Backend: JavaScript(Node JS)
 
 Database-Management: Firebase
 
-# Check out our [blog](https://vikingamrita.blogspot.com/?m=1) for more information:
+# Check out our blogs for more information:
+
+https://vikingamrita.blogspot.com/2021/01/social-networking-app-to-connect-people.html
+
+https://vikingamrita.blogspot.com/2021/02/version-2.html
+
+https://vikingamrita.blogspot.com/2021/02/version-30.html
+
+
 
 
 
