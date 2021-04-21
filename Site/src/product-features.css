@@ -55,7 +55,6 @@ img {
 
 .row {
   display: flex;
-  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
@@ -136,7 +135,7 @@ h1, h2, h3, h4, h5, h6 {
 #features {
   background: #fff;
   padding: 60px 0 0 0;
-  overflow: hidden;
+  
 }
 
 #features .features-img {
