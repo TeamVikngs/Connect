@@ -61,7 +61,7 @@ Backend: JavaScript(Node JS)
 
 Database-Management: Firebase
 
-⋅⋅* Web Application 
+⋅⋅*Web Application 
 
 # Check out our blogs for more information:
 
