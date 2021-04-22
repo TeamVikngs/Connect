@@ -15,8 +15,10 @@ Connect is an Web Application that helps like minded people connect .Take the in
   
   cd Connect
   
-  cd Site/Home page
+  cd Site
   
+  cd Home-Page
+
   npm i
   
   npm start
