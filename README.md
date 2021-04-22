@@ -25,7 +25,7 @@ Connect is an Web Application that helps like minded people connect .Take the in
   
   npm start
   
-  go to http://localhost:8000/index.html
+  go to //http://localhost:8000/index.html
 
   
   
