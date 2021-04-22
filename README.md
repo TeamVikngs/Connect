@@ -1,12 +1,14 @@
-# Team Vikings
+
 
 # CONNECT 
+
+"Success isn't about how much money you make; it's about the difference you make in people's lives." -- Michelle Obama
 
 <p align="center">
       <img src="https://user-images.githubusercontent.com/47856985/114812287-4c5dbc00-9dcd-11eb-87b9-ecb3a1a2b81d.png">
 </p>
 
-# About
+# About -
 Connect is an Web Application that helps like minded people connect .Take the input from the users and put the people who have similar interest in the same cluster where they can talk and make healthy discussions.
 -> You can connect with people having same idealogy based on your location too.
 
@@ -28,7 +30,7 @@ Connect is an Web Application that helps like minded people connect .Take the in
   
   
 
-# Features
+# Features -
 Communtiy content:
 
     1. Search/Explore: 
@@ -58,6 +60,8 @@ Frontend: JavaScript,HTML,CSS,
 Backend: JavaScript(Node JS)
 
 Database-Management: Firebase
+
+⋅⋅* Web Application 
 
 # Check out our blogs for more information:
 
